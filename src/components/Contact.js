@@ -60,7 +60,7 @@ const Contact = () => {
                   <div className="contact-icon">📧</div>
                   <div>
                     <h3>Email</h3>
-                    <p>support@chessmasteracademy.com</p>
+                    <p>support@smartchess.com</p>
                   </div>
                 </div>
                 

@@ -1,4 +1,4 @@
-# ChessMaster Academy - Video Library Website
+# Smart Chess - Video Library Website
 
 A modern, responsive chess video library website built with React. This project provides a comprehensive platform for chess enthusiasts to access instructional videos organized by difficulty level and category.
 
@@ -14,7 +14,7 @@ A modern, responsive chess video library website built with React. This project 
 
 ## Video Categories
 
-1. **ChessMaster Academy** - Core lessons and fundamentals
+1. **Chess Fundamentals** - Core lessons and fundamentals
 2. **Tactical Patterns** - Tactical combinations and motifs
 3. **Endgame Mastery** - Endgame techniques and principles
 4. **Strategic Concepts** - Strategic thinking and planning
@@ -161,8 +161,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Support
 
-For support or questions, please contact us through the contact form on the website or email support@chessmasteracademy.com.
+For support or questions, please contact us through the contact form on the website or email support@smartchess.com.
 
 ---
 
-**ChessMaster Academy** - Empowering chess players worldwide through quality education and comprehensive video content. 
+**Smart Chess** - Empowering chess players worldwide through quality education and comprehensive video content. 

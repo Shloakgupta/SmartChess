@@ -16,7 +16,9 @@ const VideoLibrary = () => {
         thumbnail: "📐",
         description: "Learn the basic coordinate system of the chess board - files and ranks.",
         videoFile: "/videos/files_and_ranks.mp4"
-      },
+      }
+    ],
+    "Piece Movement & Rules": [
       {
         id: 2,
         title: "How Pawns Move",
@@ -43,9 +45,7 @@ const VideoLibrary = () => {
         thumbnail: "♝",
         description: "Master diagonal movement with the bishop across the board.",
         videoFile: "/videos/How_Bishop_Move.mp4"
-      }
-    ],
-    "Piece Movement & Rules": [
+      },
       {
         id: 5,
         title: "How Rooks Move and Castling",

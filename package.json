@@ -1,7 +1,7 @@
 {
-  "name": "chess-video-library",
+  "name": "smart-chess",
   "version": "1.0.0",
-  "description": "A modern chess video library website",
+  "description": "Smart Chess - A modern chess video library website",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",

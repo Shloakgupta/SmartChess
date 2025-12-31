@@ -17,7 +17,7 @@ const Home = () => {
 
       <section className="section">
         <div className="container">
-          <h2 className="section-title">Why Choose ChessMaster Academy?</h2>
+          <h2 className="section-title">Why Choose Smart Chess?</h2>
           <div className="features-grid">
             <div className="feature-card">
               <div className="feature-icon">🎯</div>
