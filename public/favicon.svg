@@ -1,24 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-  <!-- Minimalist Chess King - Light Blue Outline -->
-  <g stroke="#60A5FA" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Minimalist Chess King - Light Blue Outline (Larger) -->
+  <g stroke="#60A5FA" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round">
     <!-- Rectangular base -->
-    <rect x="25" y="75" width="50" height="8" rx="2"/>
+    <rect x="15" y="75" width="70" height="10" rx="2"/>
     
     <!-- Wider, slightly curved body -->
-    <rect x="30" y="50" width="40" height="25" rx="3"/>
+    <rect x="20" y="45" width="60" height="30" rx="3"/>
     
     <!-- Cross on top of body -->
-    <line x1="50" y1="35" x2="50" y2="50"/>
-    <line x1="30" y1="45" x2="70" y2="45"/>
+    <line x1="50" y1="30" x2="50" y2="45"/>
+    <line x1="20" y1="40" x2="80" y2="40"/>
     
     <!-- Crown - left pointed arch -->
-    <path d="M 30 45 Q 30 35 38 35 Q 38 40 50 40"/>
+    <path d="M 20 40 Q 20 25 35 25 Q 35 35 50 35"/>
     
     <!-- Crown - right pointed arch -->
-    <path d="M 50 40 Q 62 40 62 35 Q 70 35 70 45"/>
+    <path d="M 50 35 Q 65 35 65 25 Q 80 25 80 40"/>
     
     <!-- Small cross at very top -->
-    <line x1="50" y1="28" x2="50" y2="35"/>
-    <line x1="46" y1="32" x2="54" y2="32"/>
+    <line x1="50" y1="20" x2="50" y2="30"/>
+    <line x1="44" y1="25" x2="56" y2="25"/>
   </g>
 </svg>
